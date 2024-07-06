@@ -32,7 +32,7 @@ The dataset consists of the following features:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/SpaceX-Falcon9-DS-Capstone.git
+    git clone https://github.com/DrKareemKamal/SpaceX-Falcon9-DS-Capstone.git
     ```
 2. Navigate to the project directory:
     ```bash
