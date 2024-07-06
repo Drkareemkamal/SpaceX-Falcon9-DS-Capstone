@@ -6,6 +6,9 @@ This project aims to predict the success or failure of SpaceX Falcon 9 launches 
 
 The dataset includes a variety of features such as the flight number, payload mass, orbit type, and whether the rocket has been reused. The model is designed to predict the likelihood of a successful launch using machine learning techniques.
 
+
+![alt text](https://github.com/Drkareemkamal/SpaceX-Falcon9-DS-Capstone/blob/main/rocket.gif]()?raw=true)
+
 ## Features
 
 The dataset consists of the following features:
@@ -22,6 +25,8 @@ The dataset consists of the following features:
 - **GridFins**: Indicates whether the rocket is equipped with grid fins.
 - **Reused**: Indicates whether the rocket booster has been reused from a previous flight.
 - **Legs**: Indicates whether the rocket is equipped with landing legs for vertical landing.
+
+![alt text](https://github.com/Drkareemkamal/SpaceX-Falcon9-DS-Capstone/blob/main/orbit.png?raw=true)
 
 ## Installation
 
