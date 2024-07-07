@@ -1,5 +1,8 @@
 # SpaceX Falcon 9 Launch Prediction
 
+![alt text](https://github.com/Drkareemkamal/SpaceX-Falcon9-DS-Capstone/blob/main/launch.gif?raw=true)
+
+
 This project aims to predict the success or failure of SpaceX Falcon 9 launches using various attributes related to the rocket, launch conditions, and mission specifics.
 
 ## Project Overview
