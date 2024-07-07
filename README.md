@@ -110,8 +110,8 @@ data = {
 features = pd.DataFrame(data)
 
 Prediction: Success
-Probability of Failure: 10.45%
-Probability of Success: 89.55%
+Probability of Failure: 0%
+Probability of Success: 100%
 ```
 
 ### Failed Prediction Example
@@ -134,8 +134,8 @@ data = {
 features = pd.DataFrame(data)
 
 Prediction: Failed
-Probability of Failure: 85.75%
-Probability of Success: 14.25%
+Probability of Failure: 100%
+Probability of Success: 0%
 ```
 
 
