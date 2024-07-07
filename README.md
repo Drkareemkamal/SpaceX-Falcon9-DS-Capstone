@@ -55,6 +55,18 @@ The dataset consists of the following features:
 
 The model uses the `StandardScaler` from `scikit-learn` to standardize the numerical features and `OneHotEncoder` for categorical features. The model is trained to predict the likelihood of a successful launch.
 
+### Dataset before preprocessing 
+
+[image_not_found](https://github.com/Drkareemkamal/SpaceX-Falcon9-DS-Capstone/blob/main/data_before.png?raw=true)
+
+
+### Dataset after one hot encoding
+
+[image_not_found](https://github.com/Drkareemkamal/SpaceX-Falcon9-DS-Capstone/blob/main/data_after_ohe.png?raw=true)
+
+
+
+
 ### Example of User Input
 
 ```python
