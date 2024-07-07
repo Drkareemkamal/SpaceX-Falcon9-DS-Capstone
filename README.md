@@ -57,12 +57,12 @@ The model uses the `StandardScaler` from `scikit-learn` to standardize the numer
 
 ### Dataset before preprocessing 
 
-[image_not_found](https://github.com/Drkareemkamal/SpaceX-Falcon9-DS-Capstone/blob/main/data_before.png?raw=true)
+![image_not_found](https://github.com/Drkareemkamal/SpaceX-Falcon9-DS-Capstone/blob/main/data_before.png?raw=true)
 
 
 ### Dataset after one hot encoding
 
-[image_not_found](https://github.com/Drkareemkamal/SpaceX-Falcon9-DS-Capstone/blob/main/data_after_ohe.png?raw=true)
+![image_not_found](https://github.com/Drkareemkamal/SpaceX-Falcon9-DS-Capstone/blob/main/data_after_ohe.png?raw=true)
 
 
 
